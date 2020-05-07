@@ -1,0 +1,94 @@
+.fixedLayout {
+    table-layout: fixed
+}
+
+.signcontent {
+    -webkit-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    border: 1px solid #efefef;
+}
+
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+tr{
+    margin: 0;
+    padding: 0;
+}
+
+td {
+    line-height: 100% !important;
+    font-family: sans-serif;
+}
+
+.wrapper {
+    width:380px;
+    margin: 0;
+    -webkit-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    border: 1px solid #efefef;
+}
+
+.wrapper-2 {
+    width: 300px;
+    -webkit-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    -moz-box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    box-shadow: 2px 0px 21px -8px rgba(0, 0, 0, 0.36);
+    border: 1px solid #efefef;
+}
+
+.intelli-logo {
+    width: 100px;
+    height: 40px;
+}
+
+.intelli-logo2 {
+    width: 70px;
+    height: auto;
+}
+
+.intelli-logo-3 {
+    width: 80px;
+    height: auto;
+}
+
+.profile-pic {
+    width: 80px;
+    height: 80px;
+}
+
+.profile-pic {
+    display: inline-block
+}
+
+.socialicon {
+    width: 20px;
+    vertical-align:baseline;
+}
+
+.weblink {
+    color: #ffffff !important;
+}
+
+.weblink a {
+    color: #ffffff;
+}

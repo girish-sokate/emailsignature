@@ -1,0 +1,48 @@
+{
+    "locations": [
+        {
+            "city": "Mumbai",
+            "address": "The Great Oasis Plot No. D-13 4th Floor, Road No. 21 Andheri (East) Mumbai - 400 093"
+        },
+        {
+            "city": "Bangalore",
+            "address": "Ajmera Aditya Summit 3/D, Ward No. 68, 5th Floor 3rd Cross, 7th C Main Koramangala Industrial Area 3rd Block, Koramangala Bangalore - 560 034"
+        },
+        {
+            "city": "Pune",
+            "address": "Cerebrum IT Park Building B-1, 3rd Floor Marigold Complex Kalyani Nagar Pune - 411 014"
+        },
+        {
+            "city": "Chennai",
+            "address": "#51, Rattha Tek Meadows Tower A, 4th Floor Rajiv Gandhi Salai Sholinganallur Chennai - 600119"
+        },
+        {
+            "city": "Newark, CA",
+            "address": "39600 Balentine Dr., Suite 200 Newark, CA 94560"
+        },
+        {
+            "city": "Burbank",
+            "address": " 359 E. Magnolia Blvd, Suite G, Burbank, CA 91502"           
+        },
+        {
+            "city": "Arizona",
+            "address": " 64 E. Broadway Rd, Tempe, 85282"           
+        },
+        {
+            "city": "North Carolina",
+            "address": "Imperial Business Park, 4819 Emperor Boulevard, Suite 400, NC, 27703"           
+        },
+        {
+            "city": "New York",
+            "address": "One Rockefeller Plaza, 10th floor, New York City, New York, 10020"           
+        },
+        {
+            "city": "Chicago",
+            "address": "125 South Wacker Dr Chicago 60606"           
+        },
+        {
+            "city": "Washington",
+            "address": "506 Second Avenue, Suite 1400, Seattle, Washington, 98104"           
+        }
+    ]
+}
