@@ -17,6 +17,10 @@
             "address": "#51, Rattha Tek Meadows Tower A, 4th Floor Rajiv Gandhi Salai Sholinganallur Chennai - 600119"
         },
         {
+            "city": "Hyderabad",
+            "address": "Awfis, Level 6, N Heights, Plot No 38, Phase 2, Siddiq Nagar, HITEC City, Hyderabad, Telangana 500081"
+        },
+        {
             "city": "Newark, CA",
             "address": "39600 Balentine Dr., Suite 200 Newark, CA 94560"
         },
@@ -26,7 +30,7 @@
         },
         {
             "city": "Arizona",
-            "address": " 64 E. Broadway Rd, Tempe, 85282"           
+            "address": " 64 E. Broadway Rd, Tempe, AZ 85282"           
         },
         {
             "city": "North Carolina",
